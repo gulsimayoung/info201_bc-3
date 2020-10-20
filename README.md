@@ -1,4 +1,4 @@
-# info201_bc-3
+# Project Proposal
 
 Potential Data Sets: 
 SPD Use of Force data set from 2017 until now
