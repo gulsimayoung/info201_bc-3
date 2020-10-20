@@ -4,8 +4,8 @@ Potential Data Sets: <br>
 [SPD Use of Force (from 2017 until now)](https://data.seattle.gov/Public-Safety/Use-Of-Force/ppi5-g2bj): <br> 
 SPD is well-known for their history of use-of-force violations, particularly against Black people 
 With this dataset we could explore geographically where force is most commonly used and against which races force is most commonly used 
-There are also different levels of force, so we could explore where in the city different levels are more common 
-https://data.seattle.gov/Public-Safety/Use-Of-Force/ppi5-g2bj
+There are also different levels of force, so we could explore where in the city different levels are more common <br>
+
 Also, [here’s an article](https://sccinsight.com/2018/02/02/understanding-spd-use-force-report/) about the use of force reports which seem to come out every year, could be helpful for understanding the data.
 
 [SPD Call Data](https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy):  <br> 
