@@ -12,10 +12,10 @@ Also, [here’s an article](https://sccinsight.com/2018/02/02/understanding-spd-
 With this data set we could explore where calls to police are coming from 
 We could potentially work with this data in conjunction with income levels and demographics of the precincts/sectors where the calls were made 
 
-[Crime and Incarceration Rates in the US](https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states: <br> 
+[Crime and Incarceration Rates in the US](https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states): <br> 
 With this data set we could ask questions about what effect mass incarceration has had on crime rates, and if incarceration is effective at all <br>
 
-[Seattle Demographics and Income](https://www.census.gov/data/academy/data-gems/2019/access-race-data.html): <br>
+[Seattle Demographics and Income](https://www.census.gov/data/academy/data-gems/2019/access-race-data.html) <br>
 
 
 
