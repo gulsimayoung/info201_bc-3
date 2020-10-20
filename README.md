@@ -21,7 +21,7 @@ https://www.census.gov/data/academy/data-gems/2019/access-race-data.html
 
 
 
-<h1> Domain of Interest: <h1>
+Domain of Interest:
 Why are you interested in this field/domain? <br>
 What other examples of data driven projects have you found related to this domain (share at least 3)? <br>
 What data-driven questions do you hope to answer about this domain (share at least 3)? <br>
