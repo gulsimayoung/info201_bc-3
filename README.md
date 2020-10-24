@@ -23,6 +23,20 @@
 ## Domain of Interest: <br> 
   * Why are you interested in this field/domain? <br>
   * What other examples of data driven projects have you found related to this domain (share at least 3)? <br>
+  [Calls for Service Dashboard](http://www.seattle.gov/police/information-and-data/calls-for-service-dashboard) <br>
+  This project highlights the various calls for service, both criminal and non-criminal. It presents a visual layout of the different call groups, and the number of   calls in 2020 for each, breaking them down into both general and specific groups. There is also a map of the Seattle area, representing 2020 call volume by beat     (the area and time an officer is on patrol). Lastly, this study shares a graph of call volume by both week/day and month. <br>
+  
+  [Call Data | City of Seattle](https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy) <br>
+  This is an ongoing collection of call data, logging police response activity. Calls are from both community members and officers who have logged calls. Each call
+  is located to the "beat" level, and over 95% of calls are listed in this data set. It was created in April of 2018, and is refreshed daily. There are roughly 4.5
+  million rows. <br>
+  
+  [Changes in Police Calls for Service During the Early Months of the 2020 Coronavirus Pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7337826/) <br>
+  This study highlights the impact that the COVID-19 pandemic had on police call statistics during the early months of the pandemic in the United States. It dives 
+  into the types of calls that became more and less frequent, and overall call data for many major cities, including Seattle. We included this study because as we 
+  work to dissect, connect, and analyze data, it will be important that we search for and stay aware of confounding variables and contributing factors like this.
+  
+  
   * What data-driven questions do you hope to answer about this domain (share at least 3)? <br>
 
 ## Finding Data: <br>  
